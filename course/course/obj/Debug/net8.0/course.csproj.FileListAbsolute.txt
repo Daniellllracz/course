@@ -1,0 +1,14 @@
+C:\Users\Ny19RaczD(B)\source\repos\course\course\bin\Debug\net8.0\course.exe
+C:\Users\Ny19RaczD(B)\source\repos\course\course\bin\Debug\net8.0\course.deps.json
+C:\Users\Ny19RaczD(B)\source\repos\course\course\bin\Debug\net8.0\course.runtimeconfig.json
+C:\Users\Ny19RaczD(B)\source\repos\course\course\bin\Debug\net8.0\course.dll
+C:\Users\Ny19RaczD(B)\source\repos\course\course\bin\Debug\net8.0\course.pdb
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.AssemblyInfoInputs.cache
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.AssemblyInfo.cs
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.dll
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\refint\course.dll
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.pdb
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\course.genruntimeconfig.cache
+C:\Users\Ny19RaczD(B)\source\repos\course\course\obj\Debug\net8.0\ref\course.dll
